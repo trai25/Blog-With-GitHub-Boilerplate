@@ -64,7 +64,7 @@ social_links = [
 #         "url": "https://github.com/AlanDecode",
 #         "icon": "gi gi-github"
 #     }
-# ]
+]
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
